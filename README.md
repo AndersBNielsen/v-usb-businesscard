@@ -6,5 +6,7 @@ The TrinketHidCombo needed to be reconfigured for the different registers on the
 
 The microusb connector footprint used is a modified version of one found in Sparkfun's KiCAD connector library. Thanks! (https://github.com/sparkfun/SparkFun-KiCad-Libraries) 
 
-# So what does it do?
+## So what does it do?
 It's my business card. It also doubles as a development board. It successfully fits code to accept commands wirelessly to control onboard(or external) WS2812B LEDs and send Play/Pause/Vol up/Vol down/Stop media keys via USB, into the 8192 bytes available on an ATTiny84. Hardware for sending the RF commands is not covered by this project. 
+
+![My business card](https://abnielsen.com/wp-content/uploads/2018/10/20181001_0077.jpg)
